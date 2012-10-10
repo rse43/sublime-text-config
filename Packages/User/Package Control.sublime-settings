@@ -4,6 +4,7 @@
 	[
 		"AdvancedNewFile",
 		"copy-file-name",
+		"DetectSyntax",
 		"DocBlockr",
 		"Gist",
 		"Git",
