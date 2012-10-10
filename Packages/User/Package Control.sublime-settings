@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": 1349508088,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"copy-file-name",
+		"DocBlockr",
+		"Gist",
+		"Git",
+		"Http Requester",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"http://github.com/ttscoff/MarkdownEditing"
+	]
+}
